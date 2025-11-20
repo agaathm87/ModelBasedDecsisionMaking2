@@ -1,0 +1,17 @@
+scipy>=1.7.0
+networkx>=3.0
+numpy>=1.24
+matplotlib>=3.7
+pandas>=2.0
+seaborn>=0.12
+tqdm>=4.64
+scikit-learn>=1.2
+mesa>=2.2, <3.0 #use old style visualisation
+ipykernel>=6.0
+ipywidgets>=8.0
+solara>=1.52.0
+altair>=4.0
+tqdm>=4.64
+joblib>=1.2
+
+# Note: All packages should be available via "pip install -r requirements.txt"
