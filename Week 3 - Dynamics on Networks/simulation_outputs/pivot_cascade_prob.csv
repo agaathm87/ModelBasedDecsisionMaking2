@@ -1,0 +1,4 @@
+Strategy,"Beta_High, Normal, Constant_0.4",Beta_Low,Beta_Mid,Fixed_0.2,Uniform
+Betweenness,0.0,1.0,0.002,1.0,0.428
+Degree,0.0,1.0,0.002,1.0,0.442
+Random,0.0,0.948,0.0,0.994,0.0
